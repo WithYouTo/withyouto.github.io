@@ -3,6 +3,7 @@ layout: post
 title: OC 内存管理的基本概念
 subtitle: OC 内存管理的基本概念以及应用
 tags: [it]
+category: it
 comments: true
 ---
 
